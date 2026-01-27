@@ -1,0 +1,12 @@
+VDD,inputOutput,supply
+VSS,inputOutput,ground
+n_RO_control,input,signal
+RO_control,input,signal
+DUT_gate,input,signal
+DUT_Footer,input,signal
+DUT_Header,input,signal
+RST_B,input,signal
+Drain_Sense,inputOutput,signal
+Drain_Force,inputOutput,signal
+extraload,inputOutput,signal
+OUT,output,signal
