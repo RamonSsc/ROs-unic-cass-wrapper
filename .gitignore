@@ -1,1 +1,15 @@
 final/
+# Simulations folder for IHP PDK
+**/simulations/
+
+# Layout Files for IHP
+**/drc_run_*/
+**/sg13g2_drc_main.lyrdb
+
+# Klayout files
+**/backups/
+*_extracted.cir
+**/main.lyrdb
+**/density.lyrdb
+**/antenna.lyrdb
+
